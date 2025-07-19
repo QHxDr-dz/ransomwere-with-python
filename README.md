@@ -20,4 +20,4 @@ It is intended to help cybersecurity professionals, malware analysts, and studen
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/PyRansomSim.git
+git clone https://github.com/YOUR_USERNAME/PyRansomSim.git](https://github.com/QHxDr-dz/ransomwere-with-python.git
