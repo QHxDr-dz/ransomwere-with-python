@@ -1,4 +1,4 @@
-# PyRansomSim – Python Ransomware Simulator (For Educational Use Only)
+# PyRansomSim – Python Ransomware Simulator for windows (you can change it to any system else just remove 'traget'with location path (For Educational Use Only)
 
 ⚠️ **DISCLAIMER:**  
 This tool is designed strictly for educational and security testing purposes **in isolated environments only**. Do not use it on unauthorized systems. The author is not responsible for any misuse.
